@@ -1,0 +1,22 @@
+train_params:
+  epochs: 10
+  batch_size: 64
+  learning_rate: 0.001
+  weight_decay: 0.0001
+  patience: 5
+
+dataset_params:
+  root_dir: './data'
+
+logging_params:
+  log_file: 'training.log'
+
+models_params:
+  save_path: './models'
+
+test_params:
+  batch_size: 64
+
+results_params:
+  results_path: './results'
+

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MNIST Digit Classifier</title>
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #f0f2f5;
+            color: #333;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .card {
+            width: 100%;
+            max-width: 500px;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+            background-color: #fff;
+            text-align: center;
+        }
+        h2 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        .btn-primary {
+            background-color: #007bff;
+            border: none;
+            padding: 10px 20px;
+            margin-top: 20px;
+            border-radius: 50px;
+            transition: background-color 0.3s ease;
+        }
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+        #result img {
+            max-width: 150px;
+            margin: 20px auto;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        }
+        #prediction {
+            font-size: 2.5em;
+            color: #007bff;
+            margin-top: 20px;
+            font-weight: 700;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h2>MNIST Digit Classifier</h2>
+        <form action="/" method="POST" enctype="multipart/form-data">
+            <div class="form-group">
+                <input type="file" name="file" accept="image/*" class="form-control" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Upload Image</button>
+        </form>
+
+        {% if request_made %}
+        <div id="result">
+            <h3>Uploaded Image:</h3>
+            <img src="data:image/png;base64,{{ image_data }}" alt="Uploaded Image">
+            <h3>Predicted Digit:</h3>
+            <div id="prediction">{{ prediction }}</div>
+            <h3>Probability:</h3>
+            <div>{{ confidence }}%</div>
+        </div>
+        {% endif %}
+    </div>
+
+    <!-- Bootstrap 5 JS and Popper.js -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"></script>
+</body>
+</html>

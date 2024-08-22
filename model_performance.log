@@ -1,0 +1,306 @@
+2024-08-21 08:41:08,903 Saving images and labels to data/test...
+2024-08-21 08:41:14,808 Finished saving images and labels to data/test.
+2024-08-21 08:46:49,575 Saving images and labels to data/test...
+2024-08-21 08:46:55,401 Finished saving images and labels to data/test.
+2024-08-21 08:48:34,691 Saving images and labels to data/test...
+2024-08-21 08:48:40,884 Finished saving images and labels to data/test.
+2024-08-21 08:49:02,831 Saving images and labels to data/test...
+2024-08-21 08:49:09,245 Finished saving images and labels to data/test.
+2024-08-21 08:49:09,482 Loaded model weights from ./models/mnist_model_10.pth
+2024-08-21 08:49:19,685 Accuracy: 99.20%
+2024-08-21 08:49:19,693 Precision: 99.20%
+2024-08-21 08:49:19,693 Recall: 99.19%
+2024-08-21 08:49:19,693 F1-Score: 99.20%
+2024-08-21 08:49:19,848 Class-wise accuracy saved to './results/class_wise_accuracy.png'
+2024-08-21 08:49:20,090 Normalized confusion matrix saved to './results/normalized_confusion_matrix.png'
+2024-08-21 09:04:51,923 Saving images and labels to data/test...
+2024-08-21 09:04:58,604 Finished saving images and labels to data/test.
+2024-08-21 09:06:42,239 Saving images and labels to data/test...
+2024-08-21 09:06:47,967 Finished saving images and labels to data/test.
+2024-08-21 09:06:48,212 Loaded model weights from ./models/mnist_model_10.pth
+2024-08-21 09:06:59,078 Accuracy: 99.20%
+2024-08-21 09:06:59,085 Overall Precision: 99.20%
+2024-08-21 09:06:59,085 Overall Recall: 99.19%
+2024-08-21 09:06:59,085 Overall F1-Score: 99.20%
+2024-08-21 09:06:59,094 Class-wise Precision, Recall, and F1-Score:
+2024-08-21 09:06:59,094 Class 0: Precision: 98.79%, Recall: 99.69%, F1-Score: 99.24%
+2024-08-21 09:06:59,094 Class 1: Precision: 99.30%, Recall: 99.74%, F1-Score: 99.52%
+2024-08-21 09:06:59,094 Class 2: Precision: 99.13%, Recall: 99.42%, F1-Score: 99.27%
+2024-08-21 09:06:59,094 Class 3: Precision: 99.90%, Recall: 99.01%, F1-Score: 99.45%
+2024-08-21 09:06:59,095 Class 4: Precision: 99.59%, Recall: 98.47%, F1-Score: 99.03%
+2024-08-21 09:06:59,095 Class 5: Precision: 99.22%, Recall: 99.33%, F1-Score: 99.27%
+2024-08-21 09:06:59,095 Class 6: Precision: 99.06%, Recall: 99.16%, F1-Score: 99.11%
+2024-08-21 09:06:59,095 Class 7: Precision: 99.41%, Recall: 98.93%, F1-Score: 99.17%
+2024-08-21 09:06:59,095 Class 8: Precision: 99.58%, Recall: 98.46%, F1-Score: 99.02%
+2024-08-21 09:06:59,095 Class 9: Precision: 98.05%, Recall: 99.70%, F1-Score: 98.87%
+2024-08-21 09:06:59,185 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:06:59,185 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:06:59,287 Class-wise precision saved to './results/class_wise_precision.png'
+2024-08-21 09:06:59,377 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:06:59,378 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:06:59,475 Class-wise recall saved to './results/class_wise_recall.png'
+2024-08-21 09:06:59,565 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:06:59,566 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:06:59,667 Class-wise f1-score saved to './results/class_wise_f1-score.png'
+2024-08-21 09:06:59,946 Normalized confusion matrix saved to './results/normalized_confusion_matrix.png'
+2024-08-21 09:08:33,815 Saving images and labels to data/test...
+2024-08-21 09:38:24,635 Saving images and labels to data/test...
+2024-08-21 09:38:30,395 Finished saving images and labels to data/test.
+2024-08-21 09:38:30,643 Loaded model weights from ./models/mnist_model_10.pth
+2024-08-21 09:38:41,660 Accuracy: 99.20%
+2024-08-21 09:38:41,668 Overall Precision: 99.20%
+2024-08-21 09:38:41,668 Overall Recall: 99.19%
+2024-08-21 09:38:41,668 Overall F1-Score: 99.20%
+2024-08-21 09:38:41,677 Class-wise Precision, Recall, and F1-Score:
+2024-08-21 09:38:41,677 Class 0: Precision: 98.79%, Recall: 99.69%, F1-Score: 99.24%
+2024-08-21 09:38:41,677 Class 1: Precision: 99.30%, Recall: 99.74%, F1-Score: 99.52%
+2024-08-21 09:38:41,677 Class 2: Precision: 99.13%, Recall: 99.42%, F1-Score: 99.27%
+2024-08-21 09:38:41,677 Class 3: Precision: 99.90%, Recall: 99.01%, F1-Score: 99.45%
+2024-08-21 09:38:41,677 Class 4: Precision: 99.59%, Recall: 98.47%, F1-Score: 99.03%
+2024-08-21 09:38:41,677 Class 5: Precision: 99.22%, Recall: 99.33%, F1-Score: 99.27%
+2024-08-21 09:38:41,677 Class 6: Precision: 99.06%, Recall: 99.16%, F1-Score: 99.11%
+2024-08-21 09:38:41,677 Class 7: Precision: 99.41%, Recall: 98.93%, F1-Score: 99.17%
+2024-08-21 09:38:41,677 Class 8: Precision: 99.58%, Recall: 98.46%, F1-Score: 99.02%
+2024-08-21 09:38:41,677 Class 9: Precision: 98.05%, Recall: 99.70%, F1-Score: 98.87%
+2024-08-21 09:38:41,787 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:38:41,787 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:38:41,900 Class-wise precision saved to './results/class_wise_precision.png'
+2024-08-21 09:38:42,008 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:38:42,009 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:38:42,121 Class-wise recall saved to './results/class_wise_recall.png'
+2024-08-21 09:38:42,220 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:38:42,221 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:38:42,337 Class-wise f1-score saved to './results/class_wise_f1-score.png'
+2024-08-21 09:38:42,719 Normalized confusion matrix saved to './results/normalized_confusion_matrix.png'
+2024-08-21 09:52:21,823 Saving images and labels to data/test...
+2024-08-21 09:52:27,620 Finished saving images and labels to data/test.
+2024-08-21 09:52:27,851 Loaded model weights from ./models/mnist_model_10.pth
+2024-08-21 09:52:38,720 Overall Accuracy: 99.20%
+2024-08-21 09:52:38,721 Overall Precision: 99.20%
+2024-08-21 09:52:38,721 Overall Recall: 99.19%
+2024-08-21 09:52:38,721 Overall F1-Score: 99.20%
+2024-08-21 09:52:38,731 Class-wise Precision, Recall, F1-Score, and Accuracy:
+2024-08-21 09:52:38,731 Class 0: Precision: 98.79%, Recall: 99.69%, F1-Score: 99.24%, Accuracy: 9.80%
+2024-08-21 09:52:38,731 Class 1: Precision: 99.30%, Recall: 99.74%, F1-Score: 99.52%, Accuracy: 11.35%
+2024-08-21 09:52:38,732 Class 2: Precision: 99.13%, Recall: 99.42%, F1-Score: 99.27%, Accuracy: 10.32%
+2024-08-21 09:52:38,732 Class 3: Precision: 99.90%, Recall: 99.01%, F1-Score: 99.45%, Accuracy: 10.10%
+2024-08-21 09:52:38,732 Class 4: Precision: 99.59%, Recall: 98.47%, F1-Score: 99.03%, Accuracy: 9.82%
+2024-08-21 09:52:38,732 Class 5: Precision: 99.22%, Recall: 99.33%, F1-Score: 99.27%, Accuracy: 8.92%
+2024-08-21 09:52:38,732 Class 6: Precision: 99.06%, Recall: 99.16%, F1-Score: 99.11%, Accuracy: 9.58%
+2024-08-21 09:52:38,732 Class 7: Precision: 99.41%, Recall: 98.93%, F1-Score: 99.17%, Accuracy: 10.28%
+2024-08-21 09:52:38,732 Class 8: Precision: 99.58%, Recall: 98.46%, F1-Score: 99.02%, Accuracy: 9.74%
+2024-08-21 09:52:38,732 Class 9: Precision: 98.05%, Recall: 99.70%, F1-Score: 98.87%, Accuracy: 10.09%
+2024-08-21 09:52:38,842 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:52:38,843 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:52:38,956 Class-wise Precision saved to './results/class_wise_precision.png'
+2024-08-21 09:52:39,062 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:52:39,062 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:52:39,179 Class-wise Recall saved to './results/class_wise_recall.png'
+2024-08-21 09:52:39,278 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:52:39,279 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:52:39,394 Class-wise F1-Score saved to './results/class_wise_f1-score.png'
+2024-08-21 09:52:39,488 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:52:39,489 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:52:39,603 Class-wise Accuracy saved to './results/class_wise_accuracy.png'
+2024-08-21 09:52:39,882 Overall metrics saved to './results/overall_metrics.png'
+2024-08-21 09:52:40,183 Normalized confusion matrix saved to './results/normalized_confusion_matrix.png'
+2024-08-21 09:57:38,235 Saving images and labels to data/test...
+2024-08-21 09:57:43,973 Finished saving images and labels to data/test.
+2024-08-21 09:57:44,217 Loaded model weights from ./models/mnist_model_10.pth
+2024-08-21 09:57:54,443 Overall Accuracy: 99.20%
+2024-08-21 09:57:54,443 Overall Precision: 99.20%
+2024-08-21 09:57:54,443 Overall Recall: 99.19%
+2024-08-21 09:57:54,443 Overall F1-Score: 99.20%
+2024-08-21 09:57:54,453 Class-wise Precision, Recall, F1-Score, and Accuracy:
+2024-08-21 09:57:54,453 Class 0: Precision: 98.79%, Recall: 99.69%, F1-Score: 99.24%, Accuracy: 99.69%
+2024-08-21 09:57:54,453 Class 1: Precision: 99.30%, Recall: 99.74%, F1-Score: 99.52%, Accuracy: 99.74%
+2024-08-21 09:57:54,453 Class 2: Precision: 99.13%, Recall: 99.42%, F1-Score: 99.27%, Accuracy: 99.42%
+2024-08-21 09:57:54,453 Class 3: Precision: 99.90%, Recall: 99.01%, F1-Score: 99.45%, Accuracy: 99.01%
+2024-08-21 09:57:54,454 Class 4: Precision: 99.59%, Recall: 98.47%, F1-Score: 99.03%, Accuracy: 98.47%
+2024-08-21 09:57:54,454 Class 5: Precision: 99.22%, Recall: 99.33%, F1-Score: 99.27%, Accuracy: 99.33%
+2024-08-21 09:57:54,454 Class 6: Precision: 99.06%, Recall: 99.16%, F1-Score: 99.11%, Accuracy: 99.16%
+2024-08-21 09:57:54,454 Class 7: Precision: 99.41%, Recall: 98.93%, F1-Score: 99.17%, Accuracy: 98.93%
+2024-08-21 09:57:54,454 Class 8: Precision: 99.58%, Recall: 98.46%, F1-Score: 99.02%, Accuracy: 98.46%
+2024-08-21 09:57:54,454 Class 9: Precision: 98.05%, Recall: 99.70%, F1-Score: 98.87%, Accuracy: 99.70%
+2024-08-21 09:57:54,546 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:57:54,546 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:57:54,652 Class-wise Precision saved to './results/class_wise_precision.png'
+2024-08-21 09:57:54,742 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:57:54,743 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:57:54,847 Class-wise Recall saved to './results/class_wise_recall.png'
+2024-08-21 09:57:54,938 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:57:54,939 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:57:55,048 Class-wise F1-Score saved to './results/class_wise_f1-score.png'
+2024-08-21 09:57:55,139 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:57:55,140 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 09:57:55,244 Class-wise Accuracy saved to './results/class_wise_accuracy.png'
+2024-08-21 09:57:55,498 Overall metrics saved to './results/overall_metrics.png'
+2024-08-21 09:57:55,777 Normalized confusion matrix saved to './results/normalized_confusion_matrix.png'
+2024-08-21 10:03:02,143 Saving images and labels to data/test...
+2024-08-21 10:03:07,853 Finished saving images and labels to data/test.
+2024-08-21 10:03:08,082 Loaded model weights from ./models/mnist_model_10.pth
+2024-08-21 10:03:18,979 Overall Accuracy: 99.20%
+2024-08-21 10:03:18,979 Overall Precision: 99.20%
+2024-08-21 10:03:18,979 Overall Recall: 99.19%
+2024-08-21 10:03:18,979 Overall F1-Score: 99.20%
+2024-08-21 10:03:18,980 Class-wise Precision, Recall, F1-Score, and Accuracy:
+2024-08-21 10:08:36,567 Saving images and labels to data/test...
+2024-08-21 10:08:42,387 Finished saving images and labels to data/test.
+2024-08-21 10:08:42,621 Loaded model weights from ./models/mnist_model_10.pth
+2024-08-21 10:09:39,427 Saving images and labels to data/test...
+2024-08-21 10:09:45,245 Finished saving images and labels to data/test.
+2024-08-21 10:09:45,542 Loaded model weights from ./models/mnist_model_10.pth
+2024-08-21 10:09:58,009 Overall Accuracy: 99.20%
+2024-08-21 10:09:58,009 Overall Precision: 99.20%
+2024-08-21 10:09:58,009 Overall Recall: 99.19%
+2024-08-21 10:09:58,009 Overall F1-Score: 99.20%
+2024-08-21 10:09:58,009 Class-wise Precision, Recall, F1-Score, and Accuracy:
+2024-08-21 10:09:58,009 Class 0: Precision: 98.79%, Recall: 99.69%, F1-Score: 99.24%, Accuracy: 99.69%
+2024-08-21 10:09:58,009 Class 1: Precision: 99.30%, Recall: 99.74%, F1-Score: 99.52%, Accuracy: 99.74%
+2024-08-21 10:09:58,009 Class 2: Precision: 99.13%, Recall: 99.42%, F1-Score: 99.27%, Accuracy: 99.42%
+2024-08-21 10:09:58,009 Class 3: Precision: 99.90%, Recall: 99.01%, F1-Score: 99.45%, Accuracy: 99.01%
+2024-08-21 10:09:58,009 Class 4: Precision: 99.59%, Recall: 98.47%, F1-Score: 99.03%, Accuracy: 98.47%
+2024-08-21 10:09:58,010 Class 5: Precision: 99.22%, Recall: 99.33%, F1-Score: 99.27%, Accuracy: 99.33%
+2024-08-21 10:09:58,010 Class 6: Precision: 99.06%, Recall: 99.16%, F1-Score: 99.11%, Accuracy: 99.16%
+2024-08-21 10:09:58,010 Class 7: Precision: 99.41%, Recall: 98.93%, F1-Score: 99.17%, Accuracy: 98.93%
+2024-08-21 10:09:58,010 Class 8: Precision: 99.58%, Recall: 98.46%, F1-Score: 99.02%, Accuracy: 98.46%
+2024-08-21 10:09:58,010 Class 9: Precision: 98.05%, Recall: 99.70%, F1-Score: 98.87%, Accuracy: 99.70%
+2024-08-21 10:09:58,112 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 10:09:58,113 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 10:09:58,226 Class-wise Precision saved to './results/class_wise_precision.png'
+2024-08-21 10:09:58,325 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 10:09:58,326 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 10:09:58,437 Class-wise Recall saved to './results/class_wise_recall.png'
+2024-08-21 10:09:58,546 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 10:09:58,547 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 10:09:58,705 Class-wise F1-Score saved to './results/class_wise_f1-score.png'
+2024-08-21 10:09:58,805 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 10:09:58,806 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 10:09:58,927 Class-wise Accuracy saved to './results/class_wise_accuracy.png'
+2024-08-21 10:09:59,204 Overall metrics saved to './results/overall_metrics.png'
+2024-08-21 10:09:59,512 Normalized confusion matrix saved to './results/normalized_confusion_matrix.png'
+2024-08-21 10:18:35,075 Saving images and labels to data/test...
+2024-08-21 10:18:41,091 Finished saving images and labels to data/test.
+2024-08-21 10:18:41,330 Loaded model weights from ./models/mnist_model_10.pth
+2024-08-21 10:18:51,537 Overall Accuracy: 99.20%
+2024-08-21 10:18:51,537 Overall Precision: 99.20%
+2024-08-21 10:18:51,537 Overall Recall: 99.19%
+2024-08-21 10:18:51,537 Overall F1-Score: 99.20%
+2024-08-21 10:18:51,537 Class-wise Precision, Recall, F1-Score, and Accuracy:
+2024-08-21 10:18:51,537 Class 0: Precision: 98.79%, Recall: 99.69%, F1-Score: 99.24%, Accuracy: 99.69%
+2024-08-21 10:18:51,537 Class 1: Precision: 99.30%, Recall: 99.74%, F1-Score: 99.52%, Accuracy: 99.74%
+2024-08-21 10:18:51,537 Class 2: Precision: 99.13%, Recall: 99.42%, F1-Score: 99.27%, Accuracy: 99.42%
+2024-08-21 10:18:51,537 Class 3: Precision: 99.90%, Recall: 99.01%, F1-Score: 99.45%, Accuracy: 99.01%
+2024-08-21 10:18:51,537 Class 4: Precision: 99.59%, Recall: 98.47%, F1-Score: 99.03%, Accuracy: 98.47%
+2024-08-21 10:18:51,538 Class 5: Precision: 99.22%, Recall: 99.33%, F1-Score: 99.27%, Accuracy: 99.33%
+2024-08-21 10:18:51,538 Class 6: Precision: 99.06%, Recall: 99.16%, F1-Score: 99.11%, Accuracy: 99.16%
+2024-08-21 10:18:51,538 Class 7: Precision: 99.41%, Recall: 98.93%, F1-Score: 99.17%, Accuracy: 98.93%
+2024-08-21 10:18:51,538 Class 8: Precision: 99.58%, Recall: 98.46%, F1-Score: 99.02%, Accuracy: 98.46%
+2024-08-21 10:18:51,538 Class 9: Precision: 98.05%, Recall: 99.70%, F1-Score: 98.87%, Accuracy: 99.70%
+2024-08-21 10:18:51,636 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 10:18:51,636 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 10:18:51,749 Class-wise Precision saved to './results/class_wise_precision.png'
+2024-08-21 10:18:51,845 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 10:18:51,846 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 10:18:51,953 Class-wise Recall saved to './results/class_wise_recall.png'
+2024-08-21 10:18:52,046 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 10:18:52,047 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 10:18:52,152 Class-wise F1-Score saved to './results/class_wise_f1-score.png'
+2024-08-21 10:18:52,246 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 10:18:52,247 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 10:18:52,359 Class-wise Accuracy saved to './results/class_wise_accuracy.png'
+2024-08-21 10:18:52,628 Overall metrics saved to './results/overall_metrics.png'
+2024-08-21 10:18:52,908 Normalized confusion matrix saved to './results/normalized_confusion_matrix.png'
+2024-08-21 11:22:14,899 Saving images and labels to data/test...
+2024-08-21 11:22:20,785 Finished saving images and labels to data/test.
+2024-08-21 11:22:21,032 Loaded model weights from ./models/mnist_model_10.pth
+2024-08-21 11:22:32,182 Overall Accuracy: 99.20%
+2024-08-21 11:22:32,182 Overall Precision: 99.20%
+2024-08-21 11:22:32,182 Overall Recall: 99.19%
+2024-08-21 11:22:32,182 Overall F1-Score: 99.20%
+2024-08-21 11:22:32,182 Class-wise Precision, Recall, F1-Score, and Accuracy:
+2024-08-21 11:22:32,182 Class 0: Precision: 98.79%, Recall: 99.69%, F1-Score: 99.24%
+2024-08-21 11:22:32,182 Class 1: Precision: 99.30%, Recall: 99.74%, F1-Score: 99.52%
+2024-08-21 11:22:32,182 Class 2: Precision: 99.13%, Recall: 99.42%, F1-Score: 99.27%
+2024-08-21 11:22:32,182 Class 3: Precision: 99.90%, Recall: 99.01%, F1-Score: 99.45%
+2024-08-21 11:22:32,182 Class 4: Precision: 99.59%, Recall: 98.47%, F1-Score: 99.03%
+2024-08-21 11:22:32,182 Class 5: Precision: 99.22%, Recall: 99.33%, F1-Score: 99.27%
+2024-08-21 11:22:32,182 Class 6: Precision: 99.06%, Recall: 99.16%, F1-Score: 99.11%
+2024-08-21 11:22:32,183 Class 7: Precision: 99.41%, Recall: 98.93%, F1-Score: 99.17%
+2024-08-21 11:22:32,183 Class 8: Precision: 99.58%, Recall: 98.46%, F1-Score: 99.02%
+2024-08-21 11:22:32,183 Class 9: Precision: 98.05%, Recall: 99.70%, F1-Score: 98.87%
+2024-08-21 11:22:32,276 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 11:22:32,277 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 11:22:32,386 Class-wise Precision saved to './results/class_wise_precision.png'
+2024-08-21 11:22:32,478 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 11:22:32,478 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 11:22:32,586 Class-wise Recall saved to './results/class_wise_recall.png'
+2024-08-21 11:22:32,680 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 11:22:32,681 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 11:22:32,792 Class-wise F1-Score saved to './results/class_wise_f1-score.png'
+2024-08-21 11:22:32,972 Overall metrics saved to './results/overall_metrics.png'
+2024-08-21 11:23:44,919 Saving images and labels to data/test...
+2024-08-21 11:23:50,680 Finished saving images and labels to data/test.
+2024-08-21 11:23:50,913 Loaded model weights from ./models/mnist_model_10.pth
+2024-08-21 11:24:01,316 Overall Accuracy: 99.20%
+2024-08-21 11:24:01,316 Overall Precision: 99.20%
+2024-08-21 11:24:01,316 Overall Recall: 99.19%
+2024-08-21 11:24:01,316 Overall F1-Score: 99.20%
+2024-08-21 11:24:01,317 Class-wise Precision, Recall, F1-Score, and Accuracy:
+2024-08-21 11:24:01,317 Class 0: Precision: 98.79%, Recall: 99.69%, F1-Score: 99.24%
+2024-08-21 11:24:01,317 Class 1: Precision: 99.30%, Recall: 99.74%, F1-Score: 99.52%
+2024-08-21 11:24:01,317 Class 2: Precision: 99.13%, Recall: 99.42%, F1-Score: 99.27%
+2024-08-21 11:24:01,317 Class 3: Precision: 99.90%, Recall: 99.01%, F1-Score: 99.45%
+2024-08-21 11:24:01,317 Class 4: Precision: 99.59%, Recall: 98.47%, F1-Score: 99.03%
+2024-08-21 11:24:01,317 Class 5: Precision: 99.22%, Recall: 99.33%, F1-Score: 99.27%
+2024-08-21 11:24:01,317 Class 6: Precision: 99.06%, Recall: 99.16%, F1-Score: 99.11%
+2024-08-21 11:24:01,317 Class 7: Precision: 99.41%, Recall: 98.93%, F1-Score: 99.17%
+2024-08-21 11:24:01,317 Class 8: Precision: 99.58%, Recall: 98.46%, F1-Score: 99.02%
+2024-08-21 11:24:01,317 Class 9: Precision: 98.05%, Recall: 99.70%, F1-Score: 98.87%
+2024-08-21 11:24:01,408 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 11:24:01,409 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 11:24:01,521 Class-wise Precision saved to './results/class_wise_precision.png'
+2024-08-21 11:24:01,613 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 11:24:01,614 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 11:24:01,721 Class-wise Recall saved to './results/class_wise_recall.png'
+2024-08-21 11:24:01,817 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 11:24:01,818 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 11:24:01,925 Class-wise F1-Score saved to './results/class_wise_f1-score.png'
+2024-08-21 11:24:02,107 Overall metrics saved to './results/overall_metrics.png'
+2024-08-21 11:41:13,935 Saving images and labels to data/test...
+2024-08-21 11:41:20,138 Finished saving images and labels to data/test.
+2024-08-21 11:41:20,427 Loaded model weights from ./models/mnist_model_10.pth
+2024-08-21 11:41:31,581 Overall Accuracy: 99.20%
+2024-08-21 11:41:31,581 Overall Precision: 99.20%
+2024-08-21 11:41:31,581 Overall Recall: 99.19%
+2024-08-21 11:41:31,581 Overall F1-Score: 99.20%
+2024-08-21 11:41:31,582 Class-wise Precision, Recall, F1-Score, and Accuracy:
+2024-08-21 11:41:31,582 Class 0: Precision: 98.79%, Recall: 99.69%, F1-Score: 99.24%
+2024-08-21 11:41:31,582 Class 1: Precision: 99.30%, Recall: 99.74%, F1-Score: 99.52%
+2024-08-21 11:41:31,582 Class 2: Precision: 99.13%, Recall: 99.42%, F1-Score: 99.27%
+2024-08-21 11:41:31,582 Class 3: Precision: 99.90%, Recall: 99.01%, F1-Score: 99.45%
+2024-08-21 11:41:31,582 Class 4: Precision: 99.59%, Recall: 98.47%, F1-Score: 99.03%
+2024-08-21 11:41:31,582 Class 5: Precision: 99.22%, Recall: 99.33%, F1-Score: 99.27%
+2024-08-21 11:41:31,582 Class 6: Precision: 99.06%, Recall: 99.16%, F1-Score: 99.11%
+2024-08-21 11:41:31,582 Class 7: Precision: 99.41%, Recall: 98.93%, F1-Score: 99.17%
+2024-08-21 11:41:31,582 Class 8: Precision: 99.58%, Recall: 98.46%, F1-Score: 99.02%
+2024-08-21 11:41:31,582 Class 9: Precision: 98.05%, Recall: 99.70%, F1-Score: 98.87%
+2024-08-21 11:41:31,675 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 11:41:31,675 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 11:41:31,783 Class-wise Precision saved to './results/class_wise_precision.png'
+2024-08-21 11:41:31,875 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 11:41:31,875 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 11:41:31,987 Class-wise Recall saved to './results/class_wise_recall.png'
+2024-08-21 11:41:32,083 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 11:41:32,083 Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-21 11:41:32,193 Class-wise F1-Score saved to './results/class_wise_f1-score.png'
+2024-08-21 11:41:32,367 Overall metrics saved to './results/overall_metrics.png'
+2024-08-21 12:29:32,314 Saving images and labels to data/train...
+2024-08-21 12:30:07,092 Finished saving images and labels to data/train.
+2024-08-21 12:30:07,092 Saving images and labels to data/val...
+2024-08-21 12:30:15,748 Finished saving images and labels to data/val.
+2024-08-21 12:32:04,262 Saving images and labels to data/train...
+2024-08-21 12:32:42,291 Finished saving images and labels to data/train.
+2024-08-21 12:32:42,291 Saving images and labels to data/val...
+2024-08-21 12:32:52,040 Finished saving images and labels to data/val.
+2024-08-21 12:35:05,834 Saving images and labels to data/train...

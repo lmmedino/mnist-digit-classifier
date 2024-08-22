@@ -1,0 +1,145 @@
+2024-08-20 21:15:20,812 [INFO] Saving images and labels to data/train...
+2024-08-20 21:16:49,448 [INFO] Saving images and labels to data/train...
+2024-08-20 21:17:18,376 [INFO] Finished saving images and labels to data/train.
+2024-08-20 21:17:18,376 [INFO] Saving images and labels to data/val...
+2024-08-20 21:17:25,155 [INFO] Finished saving images and labels to data/val.
+2024-08-20 21:17:25,156 [INFO] Saving images and labels to data/test...
+2024-08-20 21:17:30,992 [INFO] Finished saving images and labels to data/test.
+2024-08-20 21:26:32,379 [INFO] Saving images and labels to data/train...
+2024-08-20 21:28:45,775 [INFO] Saving images and labels to data/train...
+2024-08-20 21:29:25,063 [INFO] Finished saving images and labels to data/train.
+2024-08-20 21:29:25,063 [INFO] Saving images and labels to data/val...
+2024-08-20 21:29:33,960 [INFO] Finished saving images and labels to data/val.
+2024-08-20 21:29:33,960 [INFO] Saving images and labels to data/test...
+2024-08-20 21:29:41,506 [INFO] Finished saving images and labels to data/test.
+2024-08-20 21:35:04,644 [INFO] Epoch 1, Loss: 0.1714, Validation Loss: 0.0510, Validation Accuracy: 98.58%
+2024-08-20 21:41:20,817 [INFO] Epoch 2, Loss: 0.0491, Validation Loss: 0.0606, Validation Accuracy: 98.22%
+2024-08-20 21:47:08,371 [INFO] Epoch 3, Loss: 0.0331, Validation Loss: 0.0533, Validation Accuracy: 98.60%
+2024-08-20 21:53:15,266 [INFO] Epoch 4, Loss: 0.0247, Validation Loss: 0.0462, Validation Accuracy: 98.63%
+2024-08-20 22:07:25,326 [INFO] Saving images and labels to data/train...
+2024-08-20 22:07:57,836 [INFO] Saving images and labels to data/train...
+2024-08-20 22:08:29,563 [INFO] Finished saving images and labels to data/train.
+2024-08-20 22:08:29,564 [INFO] Saving images and labels to data/val...
+2024-08-20 22:08:39,737 [INFO] Finished saving images and labels to data/val.
+2024-08-20 22:08:39,737 [INFO] Saving images and labels to data/test...
+2024-08-20 22:08:45,795 [INFO] Finished saving images and labels to data/test.
+2024-08-20 22:14:22,323 [INFO] Epoch 1, Loss: 0.1648, Validation Loss: 0.0713, Validation Accuracy: 98.02%
+2024-08-20 22:20:19,153 [INFO] Epoch 2, Loss: 0.0517, Validation Loss: 0.0662, Validation Accuracy: 98.06%
+2024-08-20 22:58:16,388 [INFO] Saving images and labels to data/train...
+2024-08-20 22:58:43,627 [INFO] Finished saving images and labels to data/train.
+2024-08-20 22:58:43,627 [INFO] Saving images and labels to data/val...
+2024-08-20 22:58:51,933 [INFO] Finished saving images and labels to data/val.
+2024-08-20 22:58:51,934 [INFO] Saving images and labels to data/test...
+2024-08-20 22:58:59,248 [INFO] Finished saving images and labels to data/test.
+2024-08-20 23:04:30,892 [INFO] Epoch 1, Loss: 0.1555, Validation Loss: 0.0730, Validation Accuracy: 97.86%
+2024-08-20 23:04:31,011 [INFO] Saved model with accuracy 97.86% at ./smodels/mnist_model_1.pth
+2024-08-20 23:10:26,803 [INFO] Epoch 2, Loss: 0.0464, Validation Loss: 0.0503, Validation Accuracy: 98.53%
+2024-08-20 23:10:26,914 [INFO] Saved model with accuracy 98.53% at ./smodels/mnist_model_2.pth
+2024-08-20 23:16:23,401 [INFO] Epoch 3, Loss: 0.0324, Validation Loss: 0.0423, Validation Accuracy: 98.75%
+2024-08-20 23:16:23,501 [INFO] Saved model with accuracy 98.75% at ./smodels/mnist_model_3.pth
+2024-08-20 23:22:30,601 [INFO] Epoch 4, Loss: 0.0240, Validation Loss: 0.0552, Validation Accuracy: 98.31%
+2024-08-20 23:28:44,543 [INFO] Epoch 5, Loss: 0.0216, Validation Loss: 0.0531, Validation Accuracy: 98.80%
+2024-08-20 23:28:44,647 [INFO] Saved model with accuracy 98.80% at ./smodels/mnist_model_5.pth
+2024-08-20 23:35:03,139 [INFO] Epoch 6, Loss: 0.0168, Validation Loss: 0.0944, Validation Accuracy: 98.20%
+2024-08-20 23:41:15,527 [INFO] Epoch 7, Loss: 0.0174, Validation Loss: 0.0609, Validation Accuracy: 98.75%
+2024-08-20 23:47:34,288 [INFO] Epoch 8, Loss: 0.0110, Validation Loss: 0.0706, Validation Accuracy: 98.58%
+2024-08-21 00:29:35,514 [INFO] Saving images and labels to data/train...
+2024-08-21 00:30:03,465 [INFO] Finished saving images and labels to data/train.
+2024-08-21 00:30:03,465 [INFO] Saving images and labels to data/val...
+2024-08-21 00:30:10,473 [INFO] Finished saving images and labels to data/val.
+2024-08-21 00:35:15,245 [INFO] Epoch 1, Train Loss: 0.1732, Validation Loss: 0.0530, Validation Accuracy: 98.35%
+2024-08-21 00:35:15,355 [INFO] Saved model with accuracy 98.35% at ./models/mnist_model_1.pth
+2024-08-21 00:36:12,156 [INFO] Loaded model weights from ./models/mnist_model_1.pth
+2024-08-21 00:36:23,530 [INFO] Test Accuracy: 0.00%
+2024-08-21 00:37:59,846 [INFO] Saving images and labels to data/test...
+2024-08-21 00:38:05,422 [INFO] Finished saving images and labels to data/test.
+2024-08-21 00:38:05,665 [INFO] Loaded model weights from ./models/mnist_model_1.pth
+2024-08-21 00:38:18,421 [INFO] Test Accuracy: 0.00%
+2024-08-21 00:39:27,610 [INFO] Saving images and labels to data/test...
+2024-08-21 00:39:33,704 [INFO] Finished saving images and labels to data/test.
+2024-08-21 00:39:33,982 [INFO] Loaded model weights from ./models/mnist_model_1.pth
+2024-08-21 00:39:46,723 [INFO] Test Accuracy: 0.00%
+2024-08-21 00:42:20,622 [INFO] Saving images and labels to data/test...
+2024-08-21 00:42:27,234 [INFO] Finished saving images and labels to data/test.
+2024-08-21 00:42:27,470 [INFO] Loaded model weights from ./models/mnist_model_1.pth
+2024-08-21 00:42:38,607 [INFO] Test Accuracy: 98.45%
+2024-08-21 00:43:54,357 [INFO] Saving images and labels to data/train...
+2024-08-21 00:44:15,078 [INFO] Saving images and labels to data/train...
+2024-08-21 00:44:47,020 [INFO] Finished saving images and labels to data/train.
+2024-08-21 00:44:47,020 [INFO] Saving images and labels to data/val...
+2024-08-21 00:44:54,517 [INFO] Finished saving images and labels to data/val.
+2024-08-21 00:51:10,663 [INFO] Epoch 1, Train Loss: 0.1596, Validation Loss: 0.0545, Validation Accuracy: 98.28%
+2024-08-21 00:51:10,796 [INFO] Saved model with accuracy 98.28% at ./models/mnist_model_1.pth
+2024-08-21 00:59:01,010 [INFO] Epoch 2, Train Loss: 0.0493, Validation Loss: 0.0592, Validation Accuracy: 98.27%
+2024-08-21 01:05:18,792 [INFO] Epoch 3, Train Loss: 0.0331, Validation Loss: 0.0693, Validation Accuracy: 98.07%
+2024-08-21 01:05:18,792 [INFO] Early stopping triggered.
+2024-08-21 01:22:13,557 [INFO] Saving images and labels to data/train...
+2024-08-21 01:22:50,025 [INFO] Finished saving images and labels to data/train.
+2024-08-21 01:22:50,025 [INFO] Saving images and labels to data/val...
+2024-08-21 01:22:59,183 [INFO] Finished saving images and labels to data/val.
+2024-08-21 01:32:23,989 [INFO] Saving images and labels to data/train...
+2024-08-21 01:32:59,484 [INFO] Finished saving images and labels to data/train.
+2024-08-21 01:32:59,484 [INFO] Saving images and labels to data/val...
+2024-08-21 01:33:08,363 [INFO] Finished saving images and labels to data/val.
+2024-08-21 01:35:12,466 [INFO] Saving images and labels to data/train...
+2024-08-21 01:35:51,235 [INFO] Finished saving images and labels to data/train.
+2024-08-21 01:35:51,236 [INFO] Saving images and labels to data/val...
+2024-08-21 01:36:00,820 [INFO] Finished saving images and labels to data/val.
+2024-08-21 01:46:06,215 [INFO] Epoch 1, Train Loss: 0.2496, Validation Loss: 0.1100, Validation Accuracy: 96.88%
+2024-08-21 01:46:06,322 [INFO] Saved model with accuracy 96.88% at ./models/mnist_model_1.pth
+2024-08-21 01:55:40,172 [INFO] Epoch 2, Train Loss: 0.0903, Validation Loss: 0.0897, Validation Accuracy: 97.31%
+2024-08-21 01:55:40,273 [INFO] Saved model with accuracy 97.31% at ./models/mnist_model_2.pth
+2024-08-21 02:05:18,588 [INFO] Epoch 3, Train Loss: 0.0707, Validation Loss: 0.0614, Validation Accuracy: 98.38%
+2024-08-21 02:05:18,697 [INFO] Saved model with accuracy 98.38% at ./models/mnist_model_3.pth
+2024-08-21 02:14:55,278 [INFO] Epoch 4, Train Loss: 0.0579, Validation Loss: 0.0601, Validation Accuracy: 98.25%
+2024-08-21 02:24:37,814 [INFO] Epoch 5, Train Loss: 0.0525, Validation Loss: 0.0682, Validation Accuracy: 97.98%
+2024-08-21 02:34:24,128 [INFO] Epoch 6, Train Loss: 0.0524, Validation Loss: 0.0475, Validation Accuracy: 98.62%
+2024-08-21 02:34:24,230 [INFO] Saved model with accuracy 98.62% at ./models/mnist_model_6.pth
+2024-08-21 02:44:41,439 [INFO] Epoch 7, Train Loss: 0.0440, Validation Loss: 0.0550, Validation Accuracy: 98.34%
+2024-08-21 02:54:29,655 [INFO] Epoch 8, Train Loss: 0.0419, Validation Loss: 0.0443, Validation Accuracy: 98.77%
+2024-08-21 02:54:29,762 [INFO] Saved model with accuracy 98.77% at ./models/mnist_model_8.pth
+2024-08-21 03:04:22,062 [INFO] Epoch 9, Train Loss: 0.0421, Validation Loss: 0.0418, Validation Accuracy: 98.82%
+2024-08-21 03:04:22,162 [INFO] Saved model with accuracy 98.82% at ./models/mnist_model_9.pth
+2024-08-21 03:14:13,010 [INFO] Epoch 10, Train Loss: 0.0393, Validation Loss: 0.0397, Validation Accuracy: 98.87%
+2024-08-21 03:14:13,119 [INFO] Saved model with accuracy 98.87% at ./models/mnist_model_10.pth
+2024-08-21 03:24:01,654 [INFO] Epoch 11, Train Loss: 0.0360, Validation Loss: 0.0479, Validation Accuracy: 98.47%
+2024-08-21 03:33:47,478 [INFO] Epoch 12, Train Loss: 0.0350, Validation Loss: 0.0452, Validation Accuracy: 98.79%
+2024-08-21 08:02:14,803 [INFO] Saving images and labels to data/test...
+2024-08-21 08:02:20,447 [INFO] Finished saving images and labels to data/test.
+2024-08-21 08:02:20,693 [INFO] Loaded model weights from ./models/mnist_model_10.pth
+2024-08-21 08:02:31,547 [INFO] Test Accuracy: 99.20%
+2024-08-21 08:02:31,554 [INFO] Precision: 99.20%
+2024-08-21 08:02:31,554 [INFO] Recall: 99.20%
+2024-08-21 08:02:31,554 [INFO] F1-Score: 99.20%
+2024-08-21 08:06:17,327 [INFO] Saving images and labels to data/test...
+2024-08-21 08:06:23,229 [INFO] Finished saving images and labels to data/test.
+2024-08-21 08:06:23,471 [INFO] Loaded model weights from ./models/mnist_model_10.pth
+2024-08-21 08:06:33,855 [INFO] Test Accuracy: 99.20%
+2024-08-21 08:07:55,135 [INFO] Saving images and labels to data/test...
+2024-08-21 08:08:00,926 [INFO] Finished saving images and labels to data/test.
+2024-08-21 08:08:01,171 [INFO] Loaded model weights from ./models/mnist_model_10.pth
+2024-08-21 08:08:12,212 [INFO] Test Accuracy: 99.20%
+2024-08-21 08:08:12,219 [INFO] Precision: 99.20%
+2024-08-21 08:08:12,219 [INFO] Recall: 99.20%
+2024-08-21 08:08:12,219 [INFO] F1-Score: 99.20%
+2024-08-21 08:09:29,583 [INFO] Saving images and labels to data/test...
+2024-08-21 08:09:35,364 [INFO] Finished saving images and labels to data/test.
+2024-08-21 08:09:35,601 [INFO] Loaded model weights from ./models/mnist_model_10.pth
+2024-08-21 08:09:46,488 [INFO] Test Accuracy: 99.20000%
+2024-08-21 08:09:46,496 [INFO] Precision: 99.20000%
+2024-08-21 08:09:46,496 [INFO] Recall: 99.20000%
+2024-08-21 08:09:46,496 [INFO] F1-Score: 99.20000%
+2024-08-21 08:10:37,555 [INFO] Saving images and labels to data/test...
+2024-08-21 08:10:43,355 [INFO] Finished saving images and labels to data/test.
+2024-08-21 08:10:43,594 [INFO] Loaded model weights from ./models/mnist_model_10.pth
+2024-08-21 08:10:54,502 [INFO] Accuracy: 99.20000%
+2024-08-21 08:10:54,509 [INFO] Precision: 99.20000%
+2024-08-21 08:10:54,509 [INFO] Recall: 99.20000%
+2024-08-21 08:10:54,509 [INFO] F1-Score: 99.20000%
+2024-08-21 08:21:45,543 [INFO] Saving images and labels to data/test...
+2024-08-21 08:21:51,593 [INFO] Finished saving images and labels to data/test.
+2024-08-21 08:21:51,860 [INFO] Loaded model weights from ./models/mnist_model_10.pth
+2024-08-21 08:22:03,080 [INFO] Accuracy: 99.20000%
+2024-08-21 08:22:03,088 [INFO] Precision: 99.20299%
+2024-08-21 08:22:03,088 [INFO] Recall: 99.19154%
+2024-08-21 08:22:03,088 [INFO] F1-Score: 99.19541%
