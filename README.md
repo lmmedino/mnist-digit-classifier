@@ -2,6 +2,8 @@
 
 This repository contains a convolutional neural network (CNN) model for classifying handwritten digits from the MNIST dataset. The model is built using PyTorch and incorporates various techniques to improve generalization and prevent overfitting, including dropout and L2 regularization. The MNIST dataset, as provided by PyTorch's standard dataset loader, consists of grayscale images where the digits are white and the background is black. This version of the dataset is widely used for benchmarking image classification models. Below are examples of the white digits on a black background as used in this implementation:
 
+You can find the images in each
+
 <p align="center">
   <img src="./data/test/1/2.png" alt="Description" width="200"/>
 </p>
@@ -44,8 +46,8 @@ To enhance the model's generalization, the following data augmentation technique
 
 These augmentations were applied dynamically during training to reduce overfitting and increase the model's robustness. It's important to note that, in the context of handwritten digit recognition, some transformations are unsuitable. For instance, flipping a '5' vertically results in an image that no longer resembles the digit '5'.
 
-### 3. Train-validation split
-We divided the original training set into separate training and validation sets to monitor the model's performance on unseen data during training. This allows for early stopping and fine-tuning of hyperparameters based on the validation set's performance. This approach helps prevent overfitting and ensures that the model generalizes well to new data.
+### 3. Train-Validation-Test split
+We divided the original training set into separate training and validation sets to monitor the model's performance on unseen data during training. This allows for early stopping and fine-tuning of hyperparameters based on the validation set's performance. This approach helps prevent overfitting and ensures that the model generalizes well to new data. The training, validation, and test images are organized in the directories `./data/train`, `./data/val`, `./data/test`, respectively.
 
 ## Model Architecture
 
