@@ -56,7 +56,7 @@ The model architecture is a deep convolutional neural network consisting of the 
 1. **Convolutional Layers:**
    - `conv1`: $(28 \times 28 \times 1)$ input to $(28 \times 28 \times 32)$ output
    - `conv2_1`: $(28 \times 28 \times 32)$ input to $(14 \times 14 \times 64)$ output
-   - `conv2_2`:$(28 \times 28 \times 32)$ input to $(14 \times 14 \times 64)$ output
+   - `conv2_2`: $(28 \times 28 \times 32)$ input to $(14 \times 14 \times 64)$ output
    - `conv3_1`: $(14 \times 14 \times 64)$ input to $(7 \times 7 \times 256)$ output
    - `conv3_2`: $(14 \times 14 \times 64)$ input to $(7 \times 7 \times 256)$ output
 
@@ -83,7 +83,7 @@ The model architecture is a deep convolutional neural network consisting of the 
 
 ## Hyperparameters
 
-- **Batch Size:** Set to 32, which provides a good balance between convergence speed and stability.
+- **Batch Size:** Set to 64, which provides a good balance between convergence speed and stability.
 - **Learning Rate:** Set to 0.001, a standard starting point for Adam optimizer that generally performs well.
 - **Patience for Early Stopping:** Set to 5 epochs, meaning training will stop if the validation loss does not improve for 5 consecutive epochs.
 - **Epochs:** The model was trained for up to 10 epochs, but early stopping could terminate the training earlier.
